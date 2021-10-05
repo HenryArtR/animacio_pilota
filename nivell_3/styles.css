@@ -67,7 +67,7 @@ h1{
     transform: skew(30deg);
 }
 h1:hover{
-    width: 800px;
+    width: 1010px;
 }
 span{
     display: grid;
