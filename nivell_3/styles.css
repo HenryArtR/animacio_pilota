@@ -9,7 +9,7 @@ body{
     gap: 3px;
     
     width: 100%;
-    height: 700px;
+    height: 1090px;
 }
 .col{
     overflow: hidden;
@@ -67,7 +67,7 @@ h1{
     transform: skew(30deg);
 }
 h1:hover{
-    width: 700px;
+    width: 800px;
 }
 span{
     display: grid;
